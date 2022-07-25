@@ -14,6 +14,6 @@ public static void main(String[] args) {
 	System.out.print("귀하의 신장은?:");
 	double height = sc.nextDouble(); 
 	
-	System.out.println("이름: "+name+"나이"+age+"신장:"+height);
-}
+	System.out.println("이름: "+name+",나이"+age+",신장:"+height);
+ }
 }
